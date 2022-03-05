@@ -1,3 +1,6 @@
-# Kaggle-and-Project
+#  Toy Project
 
-케글 및 분석 관련 프로젝트 코드 정리 
+## 분석 관련 프로젝트 코드 정리 
+
+1. Dacon 
+2. Kaggle
